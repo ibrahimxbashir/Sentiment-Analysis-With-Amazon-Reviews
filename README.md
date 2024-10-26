@@ -8,7 +8,7 @@ In the near future, I will attach an html version of the file as indicated at th
 We connect to AWS and secure a connection to Amazon's reviews dataset with buckets. We then make a pandas dataframe of the name of each category of reviews and their estimated sizes in bytes, gigabytes and gigabytes before compression.
 ![categories table](pics/image5.png)
 
-Here we decide to clean and store data from the Digital Video Games category and estimate the total number of data points of each category according to it (the digital video games's dataset). Giving us:
+Here we decide to clean and store data from the Digital Video Games category and estimate the total number of data points of each category according to it (the digital video games's dataset), giving us:
 `Number of rows (data points): 145431`
 `Number of columns (features): 15`
 `Average size of each data point (an Amazon product review): 503.01487980637`
